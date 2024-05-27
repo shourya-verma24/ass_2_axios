@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### React Assignment: JSX in React
 
 ### Step-by-Step Guide
@@ -197,3 +198,6 @@ export default Post;
 ### Submission Instructions
 
 - Push your code to GitHub and share the repository link.
+=======
+# a2p1_axios_api_calling
+>>>>>>> 39c9eb7a8cc7f0495de16df58f482e9a61c809a2
